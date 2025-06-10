@@ -1,0 +1,6 @@
+@CarminhaFrufruOps_HostAddress = http://localhost:5013
+
+GET {{CarminhaFrufruOps_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
