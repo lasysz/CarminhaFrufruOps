@@ -1,6 +1,6 @@
 //const apiUrl = "https://localhost:44381/api/produtos";
 //const apiUrl = "https://localhost:7298/api/produtos";
-const apiUrl = "http://localhost:5016/api/produtos";
+const apiUrl = "https://localhost:44312/api/Produtos";
 
 let produtosOriginais = [];
 
